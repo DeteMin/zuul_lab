@@ -1,8 +1,8 @@
 # zuul_lab
-微服务网关Zuul实验，极客时间微服务架构实践课程
+微服务网关Zuul实验，微服务架构实践课程
 
 
-# 课程ppt
+# ppt
 1. [微服务网关Zuul架构和实践](ppt/微服务网关Zuul架构和实践.pdf)
 
 # 实验软件需求
@@ -41,8 +41,3 @@ D:\temp\scripts\error
 1. 所有实验仅供学习参考，不是生产级
 2. 实验和ppt采用[Mit license](LICENSE)
 
-# 极客时间课程
-
-《微服务架构实战160讲》
-
-![微服务架构实战160讲](https://github.com/spring2go/oauth2lab/blob/master/image/course_ad.jpg)
